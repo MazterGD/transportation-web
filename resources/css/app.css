@@ -5,5 +5,10 @@
 h1 {
     color: cornflowerblue;
     font-size: 2rem;
+    font-weight: bolder;
     text-align: center;
+}
+
+body {
+    background-color: grey;
 }
