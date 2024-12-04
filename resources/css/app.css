@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+h1 {
+    color: cornflowerblue;
+    font-size: 2rem;
+    text-align: center;
+}
